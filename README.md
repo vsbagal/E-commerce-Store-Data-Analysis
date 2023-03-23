@@ -3,8 +3,18 @@ Vrinda Store is an e-commerce store listed on different e-com channels, as they 
 
 QUESTIONS
 
-	Compare the sales and orders using a single chart.   
+	Compare the sales and orders using a single chart.  
+
 	Which month got the highest sales and orders?
+
 	Who purchased more men or women in 2022?
+
 	What are the different order statuses in 2022?
+
 	List the top 10 states contributing to the sales?
+
+	Relation between age and gender-based number of orders.
+
+	Which channel is contributing to maximum sales?
+
+	Highest selling category?
