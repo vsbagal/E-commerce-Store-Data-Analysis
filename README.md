@@ -18,3 +18,8 @@ QUESTIONS
 	Which channel is contributing to maximum sales?
 
 	Highest selling category?
+
+
+INSIGHTS FROM REPORT
+Women are 69% more likely to buy compared to men. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states.
+Adult age group between 30-49 years, contributing the max to salesAmazon, Myntra, and Flipkart are the best channels contributing to higher sales.
